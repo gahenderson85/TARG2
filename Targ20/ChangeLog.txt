@@ -1,0 +1,25 @@
+﻿1/28
+
+Managed to discard Scripts RemAdmin.Bat & TaskInfo.VBS & TargSvc.VBS
+-Instead of writing RemAdmin.Bat the command (NET LOCALGROUP ADMINISTRATORS USERID /DELETE)
+was added to the Scheduled task
+EX.
+
+2/9
+Cleaned up WMI Queries
+-Added Method - public static ManagementObjectCollection WmiQuery(string queryString, string hostIP)
+--Allows simple call or WMI query.
+
+Cleaned up code readability in ADTasks.CS
+
+3/10
+
+Found bug in WMI detection of Host language - Fixed
+
+Foung bug in error logging - fixed partly
+
+Found conflict with French Language PC's that use US Time Format - Fixed
+
+
+
+

@@ -1,0 +1,117 @@
+C:\DoNotBackup\Targ20\Targ20\Targ20\bin\Debug\Targ20.exe.config
+C:\DoNotBackup\Targ20\Targ20\Targ20\obj\Debug\Targ20.csprojResolveAssemblyReference.cache
+C:\DoNotBackup\Targ20\Targ20\Targ20\obj\Debug\Targ20.Form1.resources
+C:\DoNotBackup\Targ20\Targ20\Targ20\obj\Debug\Targ20.Properties.Resources.resources
+C:\DoNotBackup\Targ20\Targ20\Targ20\obj\Debug\Targ20.csproj.GenerateResource.Cache
+C:\DoNotBackup\Targ20\Targ20\Targ20\bin\Debug\Targ20.exe
+C:\DoNotBackup\Targ20\Targ20\Targ20\bin\Debug\Targ20.pdb
+C:\DoNotBackup\Targ20\Targ20\Targ20\obj\Debug\Targ20.exe
+C:\DoNotBackup\Targ20\Targ20\Targ20\obj\Debug\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ20\Targ20\Targ20\bin\Debug\Targ20.exe.config
+C:\Users\Administrator\Desktop\Targ20\Targ20\Targ20\obj\Debug\Targ20.exe
+C:\Users\Administrator\Desktop\Targ20\Targ20\Targ20\obj\Debug\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ20\Targ20\Targ20\obj\Debug\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Targ20\Targ20\Targ20\obj\Debug\Targ20.Form1.resources
+C:\Users\Administrator\Desktop\Targ20\Targ20\Targ20\obj\Debug\Targ20.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Targ20\Targ20\Targ20\obj\Debug\Targ20.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Targ20\Targ20\Targ20\bin\Debug\Targ20.exe
+C:\Users\Administrator\Desktop\Targ20\Targ20\Targ20\bin\Debug\Targ20.pdb
+C:\Users\usagah1\Desktop\Targ20\Targ20\Targ20\Targ20\bin\Debug\Targ20.exe.config
+C:\Users\usagah1\Desktop\Targ20\Targ20\Targ20\Targ20\obj\Debug\Targ20.exe
+C:\Users\usagah1\Desktop\Targ20\Targ20\Targ20\Targ20\obj\Debug\Targ20.pdb
+C:\Users\usagah1\Desktop\Targ20\Targ20\Targ20\Targ20\obj\Debug\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\usagah1\Desktop\Targ20\Targ20\Targ20\Targ20\obj\Debug\Targ20.Form1.resources
+C:\Users\usagah1\Desktop\Targ20\Targ20\Targ20\Targ20\obj\Debug\Targ20.Properties.Resources.resources
+C:\Users\usagah1\Desktop\Targ20\Targ20\Targ20\Targ20\obj\Debug\Targ20.csproj.GenerateResource.Cache
+C:\Users\usagah1\Desktop\Targ20\Targ20\Targ20\Targ20\bin\Debug\Targ20.exe
+C:\Users\usagah1\Desktop\Targ20\Targ20\Targ20\Targ20\bin\Debug\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ New\Targ20\Targ20\Targ20\Targ20\bin\Debug\Targ20.exe.config
+C:\Users\Administrator\Desktop\Targ New\Targ20\Targ20\Targ20\Targ20\obj\Debug\Targ20.exe
+C:\Users\Administrator\Desktop\Targ New\Targ20\Targ20\Targ20\Targ20\obj\Debug\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ New\Targ20\Targ20\Targ20\Targ20\bin\Debug\Targ20.exe
+C:\Users\Administrator\Desktop\Targ New\Targ20\Targ20\Targ20\Targ20\bin\Debug\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ New\Targ20\Targ20\Targ20\Targ20\obj\Debug\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Targ New\Targ20\Targ20\Targ20\Targ20\obj\Debug\Targ20.Form1.resources
+C:\Users\Administrator\Desktop\Targ New\Targ20\Targ20\Targ20\Targ20\obj\Debug\Targ20.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Targ New\Targ20\Targ20\Targ20\Targ20\obj\Debug\Targ20.csproj.GenerateResource.Cache
+C:\Users\usagah1\Desktop\Targ new\Targ New\Targ20\bin\Debug\Targ20.exe.config
+C:\Users\usagah1\Desktop\Targ new\Targ New\Targ20\obj\Debug\Targ20.exe
+C:\Users\usagah1\Desktop\Targ new\Targ New\Targ20\obj\Debug\Targ20.pdb
+C:\Users\usagah1\Desktop\Targ new\Targ New\Targ20\bin\Debug\Targ20.exe
+C:\Users\usagah1\Desktop\Targ new\Targ New\Targ20\bin\Debug\Targ20.pdb
+C:\Users\usagah1\Desktop\Targ new\Targ New\Targ20\obj\Debug\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\usagah1\Desktop\Targ new\Targ New\Targ20\obj\Debug\Targ20.Form1.resources
+C:\Users\usagah1\Desktop\Targ new\Targ New\Targ20\obj\Debug\Targ20.Properties.Resources.resources
+C:\Users\usagah1\Desktop\Targ new\Targ New\Targ20\obj\Debug\Targ20.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Targ New 9-17\Targ New\Targ20\bin\Debug\Targ20.exe.config
+C:\Users\Administrator\Desktop\Targ New 9-17\Targ New\Targ20\obj\Debug\Targ20.exe
+C:\Users\Administrator\Desktop\Targ New 9-17\Targ New\Targ20\obj\Debug\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ New 9-17\Targ New\Targ20\obj\Debug\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Targ New 9-17\Targ New\Targ20\obj\Debug\Targ20.Form1.resources
+C:\Users\Administrator\Desktop\Targ New 9-17\Targ New\Targ20\obj\Debug\Targ20.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Targ New 9-17\Targ New\Targ20\obj\Debug\Targ20.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Targ New 9-17\Targ New\Targ20\bin\Debug\Targ20.exe
+C:\Users\Administrator\Desktop\Targ New 9-17\Targ New\Targ20\bin\Debug\Targ20.pdb
+C:\Users\usagah1\Desktop\Targ 2\Targ20\bin\Debug\Targ20.exe.config
+C:\Users\usagah1\Desktop\Targ 2\Targ20\obj\Debug\Targ20.exe
+C:\Users\usagah1\Desktop\Targ 2\Targ20\obj\Debug\Targ20.pdb
+C:\Users\usagah1\Desktop\Targ 2\Targ20\obj\Debug\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\usagah1\Desktop\Targ 2\Targ20\obj\Debug\Targ20.Form1.resources
+C:\Users\usagah1\Desktop\Targ 2\Targ20\obj\Debug\Targ20.Properties.Resources.resources
+C:\Users\usagah1\Desktop\Targ 2\Targ20\obj\Debug\Targ20.csproj.GenerateResource.Cache
+C:\Users\usagah1\Desktop\Targ 2\Targ20\bin\Debug\Targ20.exe
+C:\Users\usagah1\Desktop\Targ 2\Targ20\bin\Debug\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ 2\Targ20\bin\Debug\Targ20.exe.config
+C:\Users\Administrator\Desktop\Targ 2\Targ20\obj\Debug\Targ20.exe
+C:\Users\Administrator\Desktop\Targ 2\Targ20\obj\Debug\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ 2\Targ20\bin\Debug\Targ20.exe
+C:\Users\Administrator\Desktop\Targ 2\Targ20\bin\Debug\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ 2\Targ20\obj\Debug\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Targ 2\Targ20\obj\Debug\Targ20.Form1.resources
+C:\Users\Administrator\Desktop\Targ 2\Targ20\obj\Debug\Targ20.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Targ 2\Targ20\obj\Debug\Targ20.csproj.GenerateResource.Cache
+C:\Users\usagah1\Desktop\Targ 2\Targ 2\Targ20\bin\Debug\Targ20.exe.config
+C:\Users\usagah1\Desktop\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.exe
+C:\Users\usagah1\Desktop\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.pdb
+C:\Users\usagah1\Desktop\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\usagah1\Desktop\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.Form1.resources
+C:\Users\usagah1\Desktop\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.Properties.Resources.resources
+C:\Users\usagah1\Desktop\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.csproj.GenerateResource.Cache
+C:\Users\usagah1\Desktop\Targ 2\Targ 2\Targ20\bin\Debug\Targ20.exe
+C:\Users\usagah1\Desktop\Targ 2\Targ 2\Targ20\bin\Debug\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\bin\Debug\Targ20.exe.config
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.exe
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.Form1.resources
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\bin\Debug\Targ20.exe
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\bin\Debug\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\bin\Debug\Targ20.exe.config
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.exe
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\bin\Debug\Targ20.exe
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\bin\Debug\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.Form1.resources
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.csproj.GenerateResource.Cache
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\bin\Debug\Targ20.exe.config
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.exe
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.pdb
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\bin\Debug\Targ20.exe
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\bin\Debug\Targ20.pdb
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.csprojResolveAssemblyReference.cache
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.Form1.resources
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.Properties.Resources.resources
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.csproj.GenerateResource.Cache
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\bin\Debug\Targ20.exe.config
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.exe
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.pdb
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\bin\Debug\Targ20.exe
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\bin\Debug\Targ20.pdb
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.csprojResolveAssemblyReference.cache
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.Form1.resources
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.Properties.Resources.resources
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\obj\Debug\Targ20.csproj.GenerateResource.Cache

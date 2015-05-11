@@ -1,0 +1,156 @@
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\bin\Release\Targ20.exe.config
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\obj\Release\Targ20.exe
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\obj\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\bin\Release\Targ20.exe
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\bin\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\obj\Release\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\obj\Release\Targ20.DevTools.resources
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\obj\Release\Targ20.Form1.resources
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\obj\Release\Targ20.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ 2\Targ20\obj\Release\Targ20.csproj.GenerateResource.Cache
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\bin\Release\Targ20.exe.config
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\bin\Release\Targ20.exe
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\bin\Release\Targ20.pdb
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\obj\Release\Targ20.csprojResolveAssemblyReference.cache
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\obj\Release\Targ20.DevTools.resources
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\obj\Release\Targ20.Form1.resources
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\obj\Release\Targ20.Properties.Resources.resources
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\obj\Release\Targ20.csproj.GenerateResource.Cache
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\obj\Release\Targ20.exe
+C:\DoNotBackup\Targ 2\Targ 2\Targ 2\Targ20\obj\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ 2\Targ20\bin\Release\Targ20.exe.config
+C:\Users\Administrator\Desktop\Targ 2\Targ20\obj\Release\Targ20.exe
+C:\Users\Administrator\Desktop\Targ 2\Targ20\obj\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ 2\Targ20\obj\Release\Targ20.DevTools.resources
+C:\Users\Administrator\Desktop\Targ 2\Targ20\obj\Release\Targ20.Form1.resources
+C:\Users\Administrator\Desktop\Targ 2\Targ20\obj\Release\Targ20.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Targ 2\Targ20\obj\Release\Targ20.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Targ 2\Targ20\bin\Release\Targ20.exe
+C:\Users\Administrator\Desktop\Targ 2\Targ20\bin\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ 2\Targ20\obj\Release\Targ20.csprojResolveAssemblyReference.cache
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\bin\Release\Targ20.exe.config
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\obj\Release\Targ20.exe
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\obj\Release\Targ20.pdb
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\bin\Release\Targ20.exe
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\bin\Release\Targ20.pdb
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\obj\Release\Targ20.csprojResolveAssemblyReference.cache
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\obj\Release\Targ20.DevTools.resources
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\obj\Release\Targ20.Form1.resources
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\obj\Release\Targ20.Properties.Resources.resources
+C:\DoNotBackup\Targ 2\Targ 2\Targ20\obj\Release\Targ20.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\bin\Release\Targ20.exe.config
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\obj\Release\Targ20.exe
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\obj\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\bin\Release\Targ20.exe
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\bin\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\obj\Release\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\obj\Release\Targ20.DevTools.resources
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\obj\Release\Targ20.Form1.resources
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\obj\Release\Targ20.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Targ 2\Targ 2\Targ20\obj\Release\Targ20.csproj.GenerateResource.Cache
+C:\DoNotBackup\DEV\Targ 2\Targ 2\Targ 2\Targ20\bin\Release\Targ20.exe.config
+C:\DoNotBackup\DEV\Targ 2\Targ 2\Targ 2\Targ20\obj\Release\Targ20.exe
+C:\DoNotBackup\DEV\Targ 2\Targ 2\Targ 2\Targ20\obj\Release\Targ20.pdb
+C:\Temp\Targ\DEV\Targ 2\Targ 2\Targ20\bin\Release\Targ20.exe.config
+C:\Temp\Targ\DEV\Targ 2\Targ 2\Targ20\bin\Release\Targ20.exe
+C:\Temp\Targ\DEV\Targ 2\Targ 2\Targ20\bin\Release\Targ20.pdb
+C:\Temp\Targ\DEV\Targ 2\Targ 2\Targ20\obj\Release\Targ20.csprojResolveAssemblyReference.cache
+C:\Temp\Targ\DEV\Targ 2\Targ 2\Targ20\obj\Release\Targ20.DevTools.resources
+C:\Temp\Targ\DEV\Targ 2\Targ 2\Targ20\obj\Release\Targ20.Form1.resources
+C:\Temp\Targ\DEV\Targ 2\Targ 2\Targ20\obj\Release\Targ20.Properties.Resources.resources
+C:\Temp\Targ\DEV\Targ 2\Targ 2\Targ20\obj\Release\Targ20.csproj.GenerateResource.Cache
+C:\Temp\Targ\DEV\Targ 2\Targ 2\Targ20\obj\Release\Targ20.exe
+C:\Temp\Targ\DEV\Targ 2\Targ 2\Targ20\obj\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\DEV\Targ 2\Targ 2\Targ20\bin\Release\Targ20.exe.config
+C:\Users\Administrator\Desktop\DEV\Targ 2\Targ 2\Targ20\obj\Release\Targ20.exe
+C:\Users\Administrator\Desktop\DEV\Targ 2\Targ 2\Targ20\obj\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\DEV\Targ 2\Targ 2\Targ20\bin\Release\Targ20.exe
+C:\Users\Administrator\Desktop\DEV\Targ 2\Targ 2\Targ20\bin\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\DEV\Targ 2\Targ 2\Targ20\obj\Release\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DEV\Targ 2\Targ 2\Targ20\obj\Release\Targ20.DevTools.resources
+C:\Users\Administrator\Desktop\DEV\Targ 2\Targ 2\Targ20\obj\Release\Targ20.Form1.resources
+C:\Users\Administrator\Desktop\DEV\Targ 2\Targ 2\Targ20\obj\Release\Targ20.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DEV\Targ 2\Targ 2\Targ20\obj\Release\Targ20.csproj.GenerateResource.Cache
+C:\Temp\Targ\DEV\CURRENT BUILD\RC2\Targ20\bin\Release\Targ20.exe.config
+C:\Temp\Targ\DEV\CURRENT BUILD\RC2\Targ20\obj\Release\Targ20.exe
+C:\Temp\Targ\DEV\CURRENT BUILD\RC2\Targ20\obj\Release\Targ20.pdb
+C:\Temp\Targ\DEV\CURRENT BUILD\RC2\Targ20\bin\Release\Targ20.exe
+C:\Temp\Targ\DEV\CURRENT BUILD\RC2\Targ20\bin\Release\Targ20.pdb
+C:\Temp\Targ\DEV\CURRENT BUILD\RC2\Targ20\obj\Release\Targ20.csprojResolveAssemblyReference.cache
+C:\Temp\Targ\DEV\CURRENT BUILD\RC2\Targ20\obj\Release\Targ20.DevTools.resources
+C:\Temp\Targ\DEV\CURRENT BUILD\RC2\Targ20\obj\Release\Targ20.Form1.resources
+C:\Temp\Targ\DEV\CURRENT BUILD\RC2\Targ20\obj\Release\Targ20.Properties.Resources.resources
+C:\Temp\Targ\DEV\CURRENT BUILD\RC2\Targ20\obj\Release\Targ20.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DEV\CURRENT BUILD\RC2\Targ20\bin\Release\Targ20.exe.config
+C:\Users\Administrator\Desktop\DEV\CURRENT BUILD\RC2\Targ20\obj\Release\Targ20.exe
+C:\Users\Administrator\Desktop\DEV\CURRENT BUILD\RC2\Targ20\obj\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\DEV\CURRENT BUILD\RC2\Targ20\bin\Release\Targ20.exe
+C:\Users\Administrator\Desktop\DEV\CURRENT BUILD\RC2\Targ20\bin\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\DEV\CURRENT BUILD\RC2\Targ20\obj\Release\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DEV\CURRENT BUILD\RC2\Targ20\obj\Release\Targ20.DevTools.resources
+C:\Users\Administrator\Desktop\DEV\CURRENT BUILD\RC2\Targ20\obj\Release\Targ20.Form1.resources
+C:\Users\Administrator\Desktop\DEV\CURRENT BUILD\RC2\Targ20\obj\Release\Targ20.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DEV\CURRENT BUILD\RC2\Targ20\obj\Release\Targ20.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DEV\RC2\Targ20\bin\Release\Targ20.exe.config
+C:\Users\Administrator\Desktop\DEV\RC2\Targ20\obj\Release\Targ20.exe
+C:\Users\Administrator\Desktop\DEV\RC2\Targ20\obj\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\DEV\RC2\Targ20\bin\Release\Targ20.exe
+C:\Users\Administrator\Desktop\DEV\RC2\Targ20\bin\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\DEV\RC2\Targ20\obj\Release\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DEV\RC2\Targ20\obj\Release\Targ20.DevTools.resources
+C:\Users\Administrator\Desktop\DEV\RC2\Targ20\obj\Release\Targ20.Main.resources
+C:\Users\Administrator\Desktop\DEV\RC2\Targ20\obj\Release\Targ20.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DEV\RC2\Targ20\obj\Release\Targ20.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\---CODING---\Targ\DEV\RC2\Targ20\bin\Release\Targ20.exe.config
+C:\Users\Administrator\Desktop\---CODING---\Targ\DEV\RC2\Targ20\obj\Release\Targ20.exe
+C:\Users\Administrator\Desktop\---CODING---\Targ\DEV\RC2\Targ20\obj\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\---CODING---\Targ\DEV\RC2\Targ20\obj\Release\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\---CODING---\Targ\DEV\RC2\Targ20\obj\Release\Targ20.DevTools.resources
+C:\Users\Administrator\Desktop\---CODING---\Targ\DEV\RC2\Targ20\obj\Release\Targ20.Main.resources
+C:\Users\Administrator\Desktop\---CODING---\Targ\DEV\RC2\Targ20\obj\Release\Targ20.Properties.Resources.resources
+C:\Users\Administrator\Desktop\---CODING---\Targ\DEV\RC2\Targ20\obj\Release\Targ20.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\---CODING---\Targ\DEV\RC2\Targ20\bin\Release\Targ20.exe
+C:\Users\Administrator\Desktop\---CODING---\Targ\DEV\RC2\Targ20\bin\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\---CODING---\Targ\DEV\RC2\Targ20\bin\Release\AlphaUtils.dll
+C:\Users\Administrator\Desktop\---CODING---\Targ\RC2\Targ20\bin\Release\Targ20.exe.config
+C:\Users\Administrator\Desktop\---CODING---\Targ\RC2\Targ20\obj\Release\Targ20.exe
+C:\Users\Administrator\Desktop\---CODING---\Targ\RC2\Targ20\obj\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\---CODING---\Targ\RC2\Targ20\bin\Release\Targ20.exe
+C:\Users\Administrator\Desktop\---CODING---\Targ\RC2\Targ20\bin\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\---CODING---\Targ\RC2\Targ20\bin\Release\AlphaUtils.dll
+C:\Users\Administrator\Desktop\---CODING---\Targ\RC2\Targ20\obj\Release\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\---CODING---\Targ\RC2\Targ20\obj\Release\Targ20.DevTools.resources
+C:\Users\Administrator\Desktop\---CODING---\Targ\RC2\Targ20\obj\Release\Targ20.Main.resources
+C:\Users\Administrator\Desktop\---CODING---\Targ\RC2\Targ20\obj\Release\Targ20.Properties.Resources.resources
+C:\Users\Administrator\Desktop\---CODING---\Targ\RC2\Targ20\obj\Release\Targ20.csproj.GenerateResource.Cache
+C:\Temp\Targ\DEV\RC2\Targ20\bin\Release\Targ20.exe.config
+C:\Temp\Targ\DEV\RC2\Targ20\bin\Release\Targ20.exe
+C:\Temp\Targ\DEV\RC2\Targ20\bin\Release\Targ20.pdb
+C:\Temp\Targ\DEV\RC2\Targ20\obj\Release\Targ20.DevTools.resources
+C:\Temp\Targ\DEV\RC2\Targ20\obj\Release\Targ20.Main.resources
+C:\Temp\Targ\DEV\RC2\Targ20\obj\Release\Targ20.Properties.Resources.resources
+C:\Temp\Targ\DEV\RC2\Targ20\obj\Release\Targ20.csproj.GenerateResource.Cache
+C:\Temp\Targ\DEV\RC2\Targ20\obj\Release\Targ20.exe
+C:\Temp\Targ\DEV\RC2\Targ20\obj\Release\Targ20.pdb
+C:\Temp\Targ\DEV\RC2\Targ20\obj\Release\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Programming\RC2\RC2\Targ20\bin\Release\Targ20.exe.config
+C:\Users\Administrator\Desktop\Programming\RC2\RC2\Targ20\obj\Release\Targ20.exe
+C:\Users\Administrator\Desktop\Programming\RC2\RC2\Targ20\obj\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\Programming\RC2\RC2\Targ20\bin\Release\Targ20.exe
+C:\Users\Administrator\Desktop\Programming\RC2\RC2\Targ20\bin\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\Programming\RC2\RC2\Targ20\bin\Release\AlphaUtils.dll
+C:\Users\Administrator\Desktop\Programming\RC2\RC2\Targ20\obj\Release\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Programming\RC2\RC2\Targ20\obj\Release\Targ20.DevTools.resources
+C:\Users\Administrator\Desktop\Programming\RC2\RC2\Targ20\obj\Release\Targ20.Main.resources
+C:\Users\Administrator\Desktop\Programming\RC2\RC2\Targ20\obj\Release\Targ20.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Programming\RC2\RC2\Targ20\obj\Release\Targ20.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\RC2 (2)\RC2\Targ20\bin\Release\Targ20.exe.config
+C:\Users\Administrator\Desktop\RC2 (2)\RC2\Targ20\obj\Release\Targ20.exe
+C:\Users\Administrator\Desktop\RC2 (2)\RC2\Targ20\obj\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\RC2 (2)\RC2\Targ20\bin\Release\Targ20.exe
+C:\Users\Administrator\Desktop\RC2 (2)\RC2\Targ20\bin\Release\Targ20.pdb
+C:\Users\Administrator\Desktop\RC2 (2)\RC2\Targ20\obj\Release\Targ20.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\RC2 (2)\RC2\Targ20\obj\Release\Targ20.DevTools.resources
+C:\Users\Administrator\Desktop\RC2 (2)\RC2\Targ20\obj\Release\Targ20.Main.resources
+C:\Users\Administrator\Desktop\RC2 (2)\RC2\Targ20\obj\Release\Targ20.Properties.Resources.resources
+C:\Users\Administrator\Desktop\RC2 (2)\RC2\Targ20\obj\Release\Targ20.csproj.GenerateResource.Cache
